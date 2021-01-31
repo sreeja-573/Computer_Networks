@@ -39,18 +39,18 @@ int main()
 
 /*
 Output:
-Please enter a string:  hello
+Please enter a string:  sreeja
 
 Menu:
 1.Encrypt the string.
 2.Decrypt the string.
 Please choose following options:1
 
-Encrypted string: khoor
+Encrypted string: vuhhmd
 
 
 
-Please enter a string:  khoor
+Please enter a string:  vuhhmd
 
 Menu:
 1.Encrypt the string.
@@ -58,6 +58,6 @@ Menu:
 
 Please choose following options:2
 
-Decrypted string: hello
+Decrypted string: sreeja
 
 */
